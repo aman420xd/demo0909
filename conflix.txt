@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+HEAD
 hello   from main
-=======
+
 hello world i am conflict 
->>>>>>> 38a4145 (feature change)
+feature-conflict
